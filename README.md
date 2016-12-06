@@ -21,5 +21,9 @@ Well, it turns out it works kinda like Apple's _Time Machine_ since _OS X Leopar
 
 The script has only been tested on Linux, so YMMV.
 
+## Requirements
 
+This script requires the following CPAN modules:
+* Lchown (install from CPAN, or `apt-get install liblchown-perl`)
+* Unix::Mknod (install from CPAN, or `apt-get install libunix-mknod-perl`
 
